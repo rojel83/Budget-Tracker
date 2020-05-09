@@ -14,10 +14,6 @@ input {
   font-family: Arial;
 }
 
-label {
-  font-weight: 900;
-}
-
 input {
   border: 2px solid transparent;
   border-radius: 6px;
